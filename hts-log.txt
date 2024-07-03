@@ -1,0 +1,585 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Jul 2024 22:29:43 at https://kota.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kota.co.uk/ -O1 "C:\xampp\htdocs\artistic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:31:00	Warning: 	Permanent Redirect for https://kota.co.uk/work/
+22:31:00	Warning: 	File has moved from https://kota.co.uk/work/ to /work
+22:31:01	Warning: 	Permanent Redirect for https://kota.co.uk/agency/
+22:31:01	Warning: 	File has moved from https://kota.co.uk/agency/ to /agency
+22:31:03	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/
+22:31:03	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/ to /service/web-design-development
+22:31:03	Warning: 	Permanent Redirect for https://kota.co.uk/service/branding/
+22:31:03	Warning: 	File has moved from https://kota.co.uk/service/branding/ to /service/branding
+22:31:03	Warning: 	Permanent Redirect for https://kota.co.uk/service/digital-marketing/
+22:31:03	Warning: 	File has moved from https://kota.co.uk/service/digital-marketing/ to /service/digital-marketing
+22:31:03	Warning: 	Permanent Redirect for https://kota.co.uk/blog/
+22:31:03	Warning: 	File has moved from https://kota.co.uk/blog/ to /blog
+22:31:03	Warning: 	Permanent Redirect for https://kota.co.uk/culture/
+22:31:03	Warning: 	File has moved from https://kota.co.uk/culture/ to /culture
+22:31:05	Warning: 	Permanent Redirect for https://kota.co.uk/contact/
+22:31:05	Warning: 	File has moved from https://kota.co.uk/contact/ to /contact
+22:36:20	Warning: 	Permanent Redirect for https://kota.co.uk/work/pison/
+22:36:20	Warning: 	File has moved from https://kota.co.uk/work/pison/ to /work/pison
+22:36:20	Warning: 	Permanent Redirect for https://kota.co.uk/work/wogan-coffee/
+22:36:20	Warning: 	File has moved from https://kota.co.uk/work/wogan-coffee/ to /work/wogan-coffee
+22:36:21	Warning: 	Permanent Redirect for https://kota.co.uk/work/dka/
+22:36:21	Warning: 	File has moved from https://kota.co.uk/work/dka/ to /work/dka
+22:38:17	Warning: 	Permanent Redirect for https://kota.co.uk/agencies/
+22:38:17	Warning: 	File has moved from https://kota.co.uk/agencies/ to /agencies
+22:38:17	Warning: 	Permanent Redirect for https://kota.co.uk/b2b-tech-software-saas/
+22:38:17	Warning: 	File has moved from https://kota.co.uk/b2b-tech-software-saas/ to /b2b-tech-software-saas
+22:38:22	Warning: 	Permanent Redirect for https://kota.co.uk/b2b-transformation/
+22:38:22	Warning: 	File has moved from https://kota.co.uk/b2b-transformation/ to /b2b-transformation
+22:38:26	Warning: 	Permanent Redirect for https://kota.co.uk/healthcare/
+22:38:26	Warning: 	File has moved from https://kota.co.uk/healthcare/ to /healthcare
+22:38:28	Warning: 	Permanent Redirect for https://kota.co.uk/media-entertainment/
+22:38:28	Warning: 	File has moved from https://kota.co.uk/media-entertainment/ to /media-entertainment
+22:38:30	Warning: 	Permanent Redirect for https://kota.co.uk/retail/
+22:38:30	Warning: 	File has moved from https://kota.co.uk/retail/ to /retail
+22:38:36	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/logo.jpg (from https://kota.co.uk/)
+22:39:08	Warning: 	Permanent Redirect for https://kota.co.uk/work/pixelartworks/
+22:39:08	Warning: 	File has moved from https://kota.co.uk/work/pixelartworks/ to /work/pixelartworks
+22:40:01	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/creative-web-design/
+22:40:01	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/creative-web-design/ to /service/web-design-development/creative-web-design
+22:40:01	Warning: 	Permanent Redirect for https://kota.co.uk/work/bms-performance/
+22:40:01	Warning: 	File has moved from https://kota.co.uk/work/bms-performance/ to /work/bms-performance
+22:40:28	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/web-development/
+22:40:28	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/web-development/ to /service/web-design-development/web-development
+22:40:28	Warning: 	Permanent Redirect for https://kota.co.uk/work/trace-solutions/
+22:40:28	Warning: 	File has moved from https://kota.co.uk/work/trace-solutions/ to /work/trace-solutions
+22:40:28	Warning: 	Permanent Redirect for https://kota.co.uk/work/cynozure/
+22:40:28	Warning: 	File has moved from https://kota.co.uk/work/cynozure/ to /work/cynozure
+22:40:52	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/copywriting/
+22:40:52	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/copywriting/ to /service/web-design-development/copywriting
+22:40:53	Warning: 	Permanent Redirect for https://kota.co.uk/work/aardvark/
+22:40:53	Warning: 	File has moved from https://kota.co.uk/work/aardvark/ to /work/aardvark
+22:42:12	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/e-commerce/
+22:42:12	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/e-commerce/ to /service/web-design-development/e-commerce
+22:42:12	Warning: 	Permanent Redirect for https://kota.co.uk/work/bounce/
+22:42:12	Warning: 	File has moved from https://kota.co.uk/work/bounce/ to /work/bounce
+22:42:12	Warning: 	Permanent Redirect for https://kota.co.uk/work/tangerine/
+22:42:12	Warning: 	File has moved from https://kota.co.uk/work/tangerine/ to /work/tangerine
+22:42:34	Warning: 	Permanent Redirect for https://kota.co.uk/service/web-design-development/wordpress/
+22:42:34	Warning: 	File has moved from https://kota.co.uk/service/web-design-development/wordpress/ to /service/web-design-development/wordpress
+22:42:36	Warning: 	Permanent Redirect for https://kota.co.uk/work/super-yachts-monaco/
+22:42:36	Warning: 	File has moved from https://kota.co.uk/work/super-yachts-monaco/ to /work/super-yachts-monaco
+22:42:36	Warning: 	Permanent Redirect for https://kota.co.uk/work/love-brands/
+22:42:36	Warning: 	File has moved from https://kota.co.uk/work/love-brands/ to /work/love-brands
+22:43:20	Warning: 	Permanent Redirect for https://kota.co.uk/service/branding/brand-strategy/
+22:43:20	Warning: 	File has moved from https://kota.co.uk/service/branding/brand-strategy/ to /service/branding/brand-strategy
+22:43:42	Warning: 	Permanent Redirect for https://kota.co.uk/service/branding/tone-of-voice/
+22:43:42	Warning: 	File has moved from https://kota.co.uk/service/branding/tone-of-voice/ to /service/branding/tone-of-voice
+22:43:42	Warning: 	Permanent Redirect for https://kota.co.uk/work/stoli/
+22:43:42	Warning: 	File has moved from https://kota.co.uk/work/stoli/ to /work/stoli
+22:44:23	Warning: 	Permanent Redirect for https://kota.co.uk/service/branding/visual-identity/
+22:44:23	Warning: 	File has moved from https://kota.co.uk/service/branding/visual-identity/ to /service/branding/visual-identity
+22:44:45	Warning: 	Permanent Redirect for https://kota.co.uk/service/digital-marketing/motion-graphics/
+22:44:45	Warning: 	File has moved from https://kota.co.uk/service/digital-marketing/motion-graphics/ to /service/digital-marketing/motion-graphics
+22:45:23	Warning: 	Permanent Redirect for https://kota.co.uk/service/digital-marketing/creative-campaigns/
+22:45:23	Warning: 	File has moved from https://kota.co.uk/service/digital-marketing/creative-campaigns/ to /service/digital-marketing/creative-campaigns
+22:45:36	Warning: 	Permanent Redirect for https://kota.co.uk/service/digital-marketing/marketing-support/
+22:45:36	Warning: 	File has moved from https://kota.co.uk/service/digital-marketing/marketing-support/ to /service/digital-marketing/marketing-support
+22:45:44	Warning: 	Permanent Redirect for https://kota.co.uk/work/floan/
+22:45:44	Warning: 	File has moved from https://kota.co.uk/work/floan/ to /work/floan
+22:45:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/08-5-scaled.jpg (from https://kota.co.uk/work/floan)
+22:46:34	Warning: 	Permanent Redirect for https://kota.co.uk/work/florence/
+22:46:34	Warning: 	File has moved from https://kota.co.uk/work/florence/ to /work/florence
+22:46:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/hero.png (from https://kota.co.uk/work/florence)
+22:46:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/01/tangerine-thumbnail-1.jpg (from https://kota.co.uk/work/tangerine)
+22:46:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2023/10/wogan-featured-2.jpg (from https://kota.co.uk/work/wogan-coffee)
+22:46:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-4.jpg (from https://kota.co.uk/work/pixelartworks)
+22:46:38	Warning: 	Permanent Redirect for https://kota.co.uk/blog/creating-the-kotaverse-to-celebrate-10-years-of-kota/
+22:46:38	Warning: 	File has moved from https://kota.co.uk/blog/creating-the-kotaverse-to-celebrate-10-years-of-kota/ to /blog/creating-the-kotaverse-to-celebrate-10-years-of-kota
+22:46:38	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header.webp (from https://kota.co.uk/blog/creating-the-kotaverse-to-celebrate-10-years-of-kota)
+22:47:04	Warning: 	Permanent Redirect for https://kota.co.uk/blog/web-design-project-timing/
+22:47:04	Warning: 	File has moved from https://kota.co.uk/blog/web-design-project-timing/ to /blog/web-design-project-timing
+22:47:04	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2023/10/post-2.jpg (from https://kota.co.uk/blog/web-design-project-timing)
+22:47:16	Warning: 	Permanent Redirect for https://kota.co.uk/blog/clutch-names-kota-a-2024-global-winner-clutch-champion-and-top-branding-company/
+22:47:16	Warning: 	File has moved from https://kota.co.uk/blog/clutch-names-kota-a-2024-global-winner-clutch-champion-and-top-branding-company/ to /blog/clutch-names-kota-a-2024-global-winner-clutch-champion-and-top-branding-company
+22:47:16	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/06/clutch-top-branding-company-2024-1.png (from https://kota.co.uk/blog/clutch-names-kota-a-2024-global-winner-clutch-champion-and-top-branding-company)
+22:47:29	Warning: 	Permanent Redirect for https://kota.co.uk/blog/sitecare-management-website-maintenance/
+22:47:29	Warning: 	File has moved from https://kota.co.uk/blog/sitecare-management-website-maintenance/ to /blog/sitecare-management-website-maintenance
+22:47:30	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/sitecare-header-image.webp (from https://kota.co.uk/blog/sitecare-management-website-maintenance)
+22:47:30	Warning: 	Permanent Redirect for https://kota.co.uk/faqs/
+22:47:30	Warning: 	File has moved from https://kota.co.uk/faqs/ to /faqs
+22:47:30	Warning: 	Permanent Redirect for https://kota.co.uk/privacy-policy/
+22:47:30	Warning: 	File has moved from https://kota.co.uk/privacy-policy/ to /privacy-policy
+22:48:07	Warning: 	Permanent Redirect for https://kota.co.uk/blog/digital-design-trends-2024/
+22:48:07	Warning: 	File has moved from https://kota.co.uk/blog/digital-design-trends-2024/ to /blog/digital-design-trends-2024
+22:48:07	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Blog-Post-Header-Image-scaled.jpg (from https://kota.co.uk/blog/digital-design-trends-2024)
+22:48:07	Warning: 	Permanent Redirect for https://kota.co.uk/blog/rebelling-against-the-grid-unconventional-layouts-in-web-design/
+22:48:07	Warning: 	File has moved from https://kota.co.uk/blog/rebelling-against-the-grid-unconventional-layouts-in-web-design/ to /blog/rebelling-against-the-grid-unconventional-layouts-in-web-design
+22:48:07	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/The-KOTA-Way-Unconventional-Layout-Blog-Header-–-op2.jpg (from https://kota.co.uk/blog/rebelling-against-the-grid-unconventional-layouts-in-web-design)
+22:48:59	Warning: 	Permanent Redirect for https://kota.co.uk/blog/10-signs-you-probably-need-a-new-website/
+22:48:59	Warning: 	File has moved from https://kota.co.uk/blog/10-signs-you-probably-need-a-new-website/ to /blog/10-signs-you-probably-need-a-new-website
+22:49:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/websites.webp (from https://kota.co.uk/blog/10-signs-you-probably-need-a-new-website)
+22:49:23	Warning: 	Permanent Redirect for https://kota.co.uk/blog/behind-the-scenes-at-kota-web-design-process/
+22:49:23	Warning: 	File has moved from https://kota.co.uk/blog/behind-the-scenes-at-kota-web-design-process/ to /blog/behind-the-scenes-at-kota-web-design-process
+22:49:23	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/process-1.webp (from https://kota.co.uk/blog/behind-the-scenes-at-kota-web-design-process)
+22:49:23	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2023/10/T01-Homepage-B-–-1-1.jpg (from https://kota.co.uk/work/dka)
+22:49:31	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-3.jpg (from https://kota.co.uk/work/pison)
+22:49:31	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/web-design-development/creative-web-design (from https://kota.co.uk/service/web-design-development/creative-web-design/)
+22:49:31	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-web-development-process-how-good-websites-are-built/
+22:49:31	Warning: 	File has moved from https://kota.co.uk/blog/kota-web-development-process-how-good-websites-are-built/ to /blog/kota-web-development-process-how-good-websites-are-built
+22:49:31	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/webdev-blog-header.webp (from https://kota.co.uk/blog/kota-web-development-process-how-good-websites-are-built)
+22:49:31	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-named-one-of-the-top-creative-b2b-companies-in-the-uk-by-clutch/
+22:49:31	Warning: 	File has moved from https://kota.co.uk/blog/kota-named-one-of-the-top-creative-b2b-companies-in-the-uk-by-clutch/ to /blog/kota-named-one-of-the-top-creative-b2b-companies-in-the-uk-by-clutch
+22:49:31	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/clutch.webp (from https://kota.co.uk/blog/kota-named-one-of-the-top-creative-b2b-companies-in-the-uk-by-clutch)
+22:49:31	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-welcomes-upp-the-oscar-emmy-winning-vfx-studio-as-our-newest-client/
+22:49:31	Warning: 	File has moved from https://kota.co.uk/blog/kota-welcomes-upp-the-oscar-emmy-winning-vfx-studio-as-our-newest-client/ to /blog/kota-welcomes-upp-the-oscar-emmy-winning-vfx-studio-as-our-newest-client
+22:49:31	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/01/IMG_2782.jpg (from https://kota.co.uk/blog/kota-welcomes-upp-the-oscar-emmy-winning-vfx-studio-as-our-newest-client)
+22:49:38	Warning: 	Permanent Redirect for https://kota.co.uk/blog/key-website-kpis-a-guide-to-your-websites-performance/
+22:49:38	Warning: 	File has moved from https://kota.co.uk/blog/key-website-kpis-a-guide-to-your-websites-performance/ to /blog/key-website-kpis-a-guide-to-your-websites-performance
+22:49:38	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/kpis-1.png (from https://kota.co.uk/blog/key-website-kpis-a-guide-to-your-websites-performance)
+22:49:38	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/web-design-development/web-development (from https://kota.co.uk/service/web-design-development/web-development/)
+22:49:47	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-hallmarks-of-an-effective-tone-of-voice/
+22:49:47	Warning: 	File has moved from https://kota.co.uk/blog/the-hallmarks-of-an-effective-tone-of-voice/ to /blog/the-hallmarks-of-an-effective-tone-of-voice
+22:49:47	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/Tone-of-voice.png (from https://kota.co.uk/blog/the-hallmarks-of-an-effective-tone-of-voice)
+22:49:47	Warning: 	Permanent Redirect for https://kota.co.uk/blog/designing-a-memorable-brand-identity/
+22:49:47	Warning: 	File has moved from https://kota.co.uk/blog/designing-a-memorable-brand-identity/ to /blog/designing-a-memorable-brand-identity
+22:49:47	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/branding-header.jpg (from https://kota.co.uk/blog/designing-a-memorable-brand-identity)
+22:49:47	Warning: 	Permanent Redirect for https://kota.co.uk/blog/3-examples-of-brands-that-have-aced-their-tone-of-voice/
+22:49:47	Warning: 	File has moved from https://kota.co.uk/blog/3-examples-of-brands-that-have-aced-their-tone-of-voice/ to /blog/3-examples-of-brands-that-have-aced-their-tone-of-voice
+22:49:47	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/tone-of-voice-1.png (from https://kota.co.uk/blog/3-examples-of-brands-that-have-aced-their-tone-of-voice)
+22:49:47	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/web-design-development/copywriting (from https://kota.co.uk/service/web-design-development/copywriting/)
+22:50:05	Warning: 	Permanent Redirect for https://kota.co.uk/blog/shopify-editions-summer-24-whats-new/
+22:50:05	Warning: 	File has moved from https://kota.co.uk/blog/shopify-editions-summer-24-whats-new/ to /blog/shopify-editions-summer-24-whats-new
+22:50:05	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/06/shopify-1.png (from https://kota.co.uk/blog/shopify-editions-summer-24-whats-new)
+22:50:05	Warning: 	Permanent Redirect for https://kota.co.uk/blog/e-commerce-seo-tips-for-boosting-your-online-stores-visibility/
+22:50:05	Warning: 	File has moved from https://kota.co.uk/blog/e-commerce-seo-tips-for-boosting-your-online-stores-visibility/ to /blog/e-commerce-seo-tips-for-boosting-your-online-stores-visibility
+22:50:05	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/e-commerce-SEO.png (from https://kota.co.uk/blog/e-commerce-seo-tips-for-boosting-your-online-stores-visibility)
+22:50:30	Warning: 	Permanent Redirect for https://kota.co.uk/blog/7-must-have-features-for-e-commerce-websites/
+22:50:30	Warning: 	File has moved from https://kota.co.uk/blog/7-must-have-features-for-e-commerce-websites/ to /blog/7-must-have-features-for-e-commerce-websites
+22:50:31	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header-template.jpg (from https://kota.co.uk/blog/7-must-have-features-for-e-commerce-websites)
+22:50:40	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-ultimate-e-commerce-website-guide-10-tips-for-success/
+22:50:40	Warning: 	File has moved from https://kota.co.uk/blog/the-ultimate-e-commerce-website-guide-10-tips-for-success/ to /blog/the-ultimate-e-commerce-website-guide-10-tips-for-success
+22:50:40	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Wogan_Perspective-mockups2.png (from https://kota.co.uk/blog/the-ultimate-e-commerce-website-guide-10-tips-for-success)
+22:50:40	Warning: 	Permanent Redirect for https://kota.co.uk/blog/5-examples-of-great-e-commerce-product-pages/
+22:50:40	Warning: 	File has moved from https://kota.co.uk/blog/5-examples-of-great-e-commerce-product-pages/ to /blog/5-examples-of-great-e-commerce-product-pages
+22:50:41	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-image-1-1.jpg (from https://kota.co.uk/blog/5-examples-of-great-e-commerce-product-pages)
+22:50:45	Warning: 	Permanent Redirect for https://kota.co.uk/blog/web-design-e-commerce-businesses/
+22:50:45	Warning: 	File has moved from https://kota.co.uk/blog/web-design-e-commerce-businesses/ to /blog/web-design-e-commerce-businesses
+22:50:45	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/pexels-karolina-grabowska-4968386.webp (from https://kota.co.uk/blog/web-design-e-commerce-businesses)
+22:50:45	Warning: 	Permanent Redirect for https://kota.co.uk/work/littles-coffee/
+22:50:45	Warning: 	File has moved from https://kota.co.uk/work/littles-coffee/ to /work/littles-coffee
+22:50:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-6.jpg (from https://kota.co.uk/work/littles-coffee)
+22:50:46	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/web-design-development/e-commerce (from https://kota.co.uk/service/web-design-development/e-commerce/)
+22:51:13	Warning: 	Permanent Redirect for https://kota.co.uk/blog/keeping-wordpress-websites-secure/
+22:51:13	Warning: 	File has moved from https://kota.co.uk/blog/keeping-wordpress-websites-secure/ to /blog/keeping-wordpress-websites-secure
+22:51:13	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/wp-security.jpg (from https://kota.co.uk/blog/keeping-wordpress-websites-secure)
+22:51:13	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-scaled.jpg (from https://kota.co.uk/work/bounce)
+22:51:13	Error: 	"Not Found" (404) at link https://kota.co.uk/service/web-design-development/wordpress (from https://kota.co.uk/service/web-design-development/wordpress/)
+22:51:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/a-step-by-step-guide-to-crafting-a-powerful-brand-manifesto/
+22:51:27	Warning: 	File has moved from https://kota.co.uk/blog/a-step-by-step-guide-to-crafting-a-powerful-brand-manifesto/ to /blog/a-step-by-step-guide-to-crafting-a-powerful-brand-manifesto
+22:51:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/brand-manifesto-2-1.png (from https://kota.co.uk/blog/a-step-by-step-guide-to-crafting-a-powerful-brand-manifesto)
+22:51:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-jump-on-design-trends-whilst-staying-true-to-you-brand/
+22:51:27	Warning: 	File has moved from https://kota.co.uk/blog/how-to-jump-on-design-trends-whilst-staying-true-to-you-brand/ to /blog/how-to-jump-on-design-trends-whilst-staying-true-to-you-brand
+22:51:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/balancing-act.png (from https://kota.co.uk/blog/how-to-jump-on-design-trends-whilst-staying-true-to-you-brand)
+22:51:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/top-brand-positioning-cliches-in-tech-and-how-to-avoid-them/
+22:51:27	Warning: 	File has moved from https://kota.co.uk/blog/top-brand-positioning-cliches-in-tech-and-how-to-avoid-them/ to /blog/top-brand-positioning-cliches-in-tech-and-how-to-avoid-them
+22:51:28	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/Tech-Cliches.png (from https://kota.co.uk/blog/top-brand-positioning-cliches-in-tech-and-how-to-avoid-them)
+22:51:37	Warning: 	Permanent Redirect for https://kota.co.uk/blog/5-cool-brands-in-characteristically-boring-industries/
+22:51:37	Warning: 	File has moved from https://kota.co.uk/blog/5-cool-brands-in-characteristically-boring-industries/ to /blog/5-cool-brands-in-characteristically-boring-industries
+22:51:37	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/not-boring.png (from https://kota.co.uk/blog/5-cool-brands-in-characteristically-boring-industries)
+22:52:04	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-build-successful-brands/
+22:52:04	Warning: 	File has moved from https://kota.co.uk/blog/how-to-build-successful-brands/ to /blog/how-to-build-successful-brands
+22:52:04	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-1.webp (from https://kota.co.uk/blog/how-to-build-successful-brands)
+22:52:04	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/branding/brand-strategy (from https://kota.co.uk/service/branding/brand-strategy/)
+22:52:04	Warning: 	Permanent Redirect for https://kota.co.uk/start-your-project/
+22:52:04	Warning: 	File has moved from https://kota.co.uk/start-your-project/ to /start-your-project
+22:52:04	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-define-your-tone-of-voice-with-examples/
+22:52:04	Warning: 	File has moved from https://kota.co.uk/blog/how-to-define-your-tone-of-voice-with-examples/ to /blog/how-to-define-your-tone-of-voice-with-examples
+22:52:04	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/tone-of-voice-3.png (from https://kota.co.uk/blog/how-to-define-your-tone-of-voice-with-examples)
+22:52:18	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-7.jpg (from https://kota.co.uk/work/bms-performance)
+22:52:18	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/branding/tone-of-voice (from https://kota.co.uk/service/branding/tone-of-voice/)
+22:52:25	Warning: 	Permanent Redirect for https://kota.co.uk/blog/choosing-the-right-typography-for-your-brand/
+22:52:25	Warning: 	File has moved from https://kota.co.uk/blog/choosing-the-right-typography-for-your-brand/ to /blog/choosing-the-right-typography-for-your-brand
+22:52:25	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-3.jpg (from https://kota.co.uk/blog/choosing-the-right-typography-for-your-brand)
+22:52:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-we-approach-luxury-brand-design/
+22:52:27	Warning: 	File has moved from https://kota.co.uk/blog/how-we-approach-luxury-brand-design/ to /blog/how-we-approach-luxury-brand-design
+22:52:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/perspective-2.jpg (from https://kota.co.uk/blog/how-we-approach-luxury-brand-design)
+22:52:27	Warning: 	Permanent Redirect for https://kota.co.uk/work/martin-building/
+22:52:27	Warning: 	File has moved from https://kota.co.uk/work/martin-building/ to /work/martin-building
+22:52:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/home-ark-light-01.webp (from https://kota.co.uk/work/martin-building)
+22:52:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/13-3.jpg (from https://kota.co.uk/work/stoli)
+22:52:27	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/branding/visual-identity (from https://kota.co.uk/service/branding/visual-identity/)
+22:52:29	Warning: 	Permanent Redirect for https://kota.co.uk/blog/motion-graphics-in-web-design/
+22:52:29	Warning: 	File has moved from https://kota.co.uk/blog/motion-graphics-in-web-design/ to /blog/motion-graphics-in-web-design
+22:52:29	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/motion-graphics-header2.jpg (from https://kota.co.uk/blog/motion-graphics-in-web-design)
+22:52:29	Warning: 	Permanent Redirect for https://kota.co.uk/work/penhaligons-videos/
+22:52:29	Warning: 	File has moved from https://kota.co.uk/work/penhaligons-videos/ to /work/penhaligons-videos
+22:52:30	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-8.jpg (from https://kota.co.uk/work/penhaligons-videos)
+22:52:34	Warning: 	Permanent Redirect for https://kota.co.uk/work/mercury-filmworks/
+22:52:34	Warning: 	File has moved from https://kota.co.uk/work/mercury-filmworks/ to /work/mercury-filmworks
+22:52:35	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-2.jpg (from https://kota.co.uk/work/mercury-filmworks)
+22:52:35	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/digital-marketing/motion-graphics (from https://kota.co.uk/service/digital-marketing/motion-graphics/)
+22:52:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/small-budget-big-impact-10-creative-campaigns-that-defied-the-odds/
+22:52:44	Warning: 	File has moved from https://kota.co.uk/blog/small-budget-big-impact-10-creative-campaigns-that-defied-the-odds/ to /blog/small-budget-big-impact-10-creative-campaigns-that-defied-the-odds
+22:52:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/e-commerce-SEO-3.png (from https://kota.co.uk/blog/small-budget-big-impact-10-creative-campaigns-that-defied-the-odds)
+22:52:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/design-for-social-media-how-to-align-the-design-and-content-marketing-strategy/
+22:52:44	Warning: 	File has moved from https://kota.co.uk/blog/design-for-social-media-how-to-align-the-design-and-content-marketing-strategy/ to /blog/design-for-social-media-how-to-align-the-design-and-content-marketing-strategy
+22:52:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Header-Image-2.jpg (from https://kota.co.uk/blog/design-for-social-media-how-to-align-the-design-and-content-marketing-strategy)
+22:52:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-social-is-redefining-search/
+22:52:46	Warning: 	File has moved from https://kota.co.uk/blog/how-social-is-redefining-search/ to /blog/how-social-is-redefining-search
+22:52:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/social-search.png (from https://kota.co.uk/blog/how-social-is-redefining-search)
+22:52:49	Warning: 	Permanent Redirect for https://kota.co.uk/work/jamie-oliver-7-ways/
+22:52:49	Warning: 	File has moved from https://kota.co.uk/work/jamie-oliver-7-ways/ to /work/jamie-oliver-7-ways
+22:52:49	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/7ways-featured.jpg (from https://kota.co.uk/work/jamie-oliver-7-ways)
+22:52:49	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/digital-marketing/creative-campaigns (from https://kota.co.uk/service/digital-marketing/creative-campaigns/)
+22:53:02	Warning: 	Permanent Redirect for https://kota.co.uk/blog/new-partnership-7-ways-campaign-for-penguin-books-and-jamie-oliver/
+22:53:02	Warning: 	File has moved from https://kota.co.uk/blog/new-partnership-7-ways-campaign-for-penguin-books-and-jamie-oliver/ to /blog/new-partnership-7-ways-campaign-for-penguin-books-and-jamie-oliver
+22:53:02	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Blog-Post.webp (from https://kota.co.uk/blog/new-partnership-7-ways-campaign-for-penguin-books-and-jamie-oliver)
+22:53:02	Warning: 	Permanent Redirect for https://kota.co.uk/blog/social-media-marketing-services-at-kota/
+22:53:02	Warning: 	File has moved from https://kota.co.uk/blog/social-media-marketing-services-at-kota/ to /blog/social-media-marketing-services-at-kota
+22:53:02	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/3.webp (from https://kota.co.uk/blog/social-media-marketing-services-at-kota)
+22:53:02	Error: 	"Error when decompressing" (-1) at link https://kota.co.uk/service/digital-marketing/marketing-support (from https://kota.co.uk/service/digital-marketing/marketing-support/)
+22:53:02	Warning: 	Permanent Redirect for https://kota.co.uk/blog/email-marketing-newsletter-design/
+22:53:02	Warning: 	File has moved from https://kota.co.uk/blog/email-marketing-newsletter-design/ to /blog/email-marketing-newsletter-design
+22:53:02	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/NewsLetter-Header.webp (from https://kota.co.uk/blog/email-marketing-newsletter-design)
+22:53:02	Warning: 	Permanent Redirect for https://kota.co.uk/blog/advertising-on-tiktok-101-how-brands-can-successfully-utilize-tiktok-in-their-marketing-strategy/
+22:53:02	Warning: 	File has moved from https://kota.co.uk/blog/advertising-on-tiktok-101-how-brands-can-successfully-utilize-tiktok-in-their-marketing-strategy/ to /blog/advertising-on-tiktok-101-how-brands-can-successfully-utilize-tiktok-in-their-marketing-strategy
+22:53:03	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/tiktok.webp (from https://kota.co.uk/blog/advertising-on-tiktok-101-how-brands-can-successfully-utilize-tiktok-in-their-marketing-strategy)
+22:53:05	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-pick-the-right-web-design-agency-for-your-brand/
+22:53:05	Warning: 	File has moved from https://kota.co.uk/blog/how-to-pick-the-right-web-design-agency-for-your-brand/ to /blog/how-to-pick-the-right-web-design-agency-for-your-brand
+22:53:05	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/how-to-find-your-design-agency-partner-3.png (from https://kota.co.uk/blog/how-to-pick-the-right-web-design-agency-for-your-brand)
+22:53:08	Warning: 	Permanent Redirect for https://kota.co.uk/blog/website-briefing-template/
+22:53:08	Warning: 	File has moved from https://kota.co.uk/blog/website-briefing-template/ to /blog/website-briefing-template
+22:53:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/06/Brief-template.png (from https://kota.co.uk/blog/website-briefing-template)
+22:53:15	Warning: 	Permanent Redirect for https://kota.co.uk/work/bellsant/
+22:53:15	Warning: 	File has moved from https://kota.co.uk/work/bellsant/ to /work/bellsant
+22:53:15	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/Bellsant-Image-9.jpg (from https://kota.co.uk/work/bellsant)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/work/patchwork-health/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/work/patchwork-health/ to /work/patchwork-health
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/pw-featured.jpg (from https://kota.co.uk/work/patchwork-health)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-evolution-of-kota/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/the-evolution-of-kota/ to /blog/the-evolution-of-kota
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/KOTA-Blog.png (from https://kota.co.uk/blog/the-evolution-of-kota)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-project-discovery-phase-our-recipe-for-your-success/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/kota-project-discovery-phase-our-recipe-for-your-success/ to /blog/kota-project-discovery-phase-our-recipe-for-your-success
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Discovery-blog-header.webp (from https://kota.co.uk/blog/kota-project-discovery-phase-our-recipe-for-your-success)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-user-experience-design-process-why-is-ux-important/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/kota-user-experience-design-process-why-is-ux-important/ to /blog/kota-user-experience-design-process-why-is-ux-important
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/ux-blog-header.webp (from https://kota.co.uk/blog/kota-user-experience-design-process-why-is-ux-important)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-user-interface-design-process-the-power-of-good-ui/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/kota-user-interface-design-process-the-power-of-good-ui/ to /blog/kota-user-interface-design-process-the-power-of-good-ui
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/ui-blog-header2.webp (from https://kota.co.uk/blog/kota-user-interface-design-process-the-power-of-good-ui)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/briefing/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/briefing/ to /briefing
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/designing-more-sustainable-websites/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/designing-more-sustainable-websites/ to /blog/designing-more-sustainable-websites
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/sustainble-header.jpg (from https://kota.co.uk/blog/designing-more-sustainable-websites)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/work/stepping-stone-media/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/work/stepping-stone-media/ to /work/stepping-stone-media
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/featured-1.jpg (from https://kota.co.uk/work/stepping-stone-media)
+22:53:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/monitoring-website-traffic-with-google-analytics/
+22:53:46	Warning: 	File has moved from https://kota.co.uk/blog/monitoring-website-traffic-with-google-analytics/ to /blog/monitoring-website-traffic-with-google-analytics
+22:53:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/analytics.webp (from https://kota.co.uk/blog/monitoring-website-traffic-with-google-analytics)
+22:53:55	Warning: 	Permanent Redirect for https://kota.co.uk/blog/check-it-off-the-ultimate-website-revamp-checklist/
+22:53:55	Warning: 	File has moved from https://kota.co.uk/blog/check-it-off-the-ultimate-website-revamp-checklist/ to /blog/check-it-off-the-ultimate-website-revamp-checklist
+22:53:55	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/example.png (from https://kota.co.uk/blog/check-it-off-the-ultimate-website-revamp-checklist)
+22:54:18	Warning: 	Permanent Redirect for https://kota.co.uk/work/optomen/
+22:54:18	Warning: 	File has moved from https://kota.co.uk/work/optomen/ to /work/optomen
+22:54:18	Warning: 	Permanent Redirect for https://kota.co.uk/work/hassan-allam/
+22:54:18	Warning: 	File has moved from https://kota.co.uk/work/hassan-allam/ to /work/hassan-allam
+22:54:29	Warning: 	Permanent Redirect for https://kota.co.uk/work/jumo-health/
+22:54:29	Warning: 	File has moved from https://kota.co.uk/work/jumo-health/ to /work/jumo-health
+22:54:29	Warning: 	Permanent Redirect for https://kota.co.uk/work/records-bars/
+22:54:29	Warning: 	File has moved from https://kota.co.uk/work/records-bars/ to /work/records-bars
+22:54:29	Warning: 	Permanent Redirect for https://kota.co.uk/work/jamie-oliver-5-ingredients/
+22:54:29	Warning: 	File has moved from https://kota.co.uk/work/jamie-oliver-5-ingredients/ to /work/jamie-oliver-5-ingredients
+22:54:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/image003.jpg (from https://kota.co.uk/work/optomen)
+22:54:32	Warning: 	Permanent Redirect for https://kota.co.uk/work/opta-pro/
+22:54:32	Warning: 	File has moved from https://kota.co.uk/work/opta-pro/ to /work/opta-pro
+22:54:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/op-featured.jpg (from https://kota.co.uk/work/opta-pro)
+22:54:32	Warning: 	Permanent Redirect for https://kota.co.uk/work/design4retail/
+22:54:32	Warning: 	File has moved from https://kota.co.uk/work/design4retail/ to /work/design4retail
+22:54:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/d4r-featured.jpg (from https://kota.co.uk/work/design4retail)
+22:54:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/cy-featured.jpg (from https://kota.co.uk/work/cynozure)
+22:54:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/featured-2.jpg (from https://kota.co.uk/work/records-bars)
+22:54:39	Warning: 	Permanent Redirect for https://kota.co.uk/work/holland-green/
+22:54:39	Warning: 	File has moved from https://kota.co.uk/work/holland-green/ to /work/holland-green
+22:54:40	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/hg-featured.jpg (from https://kota.co.uk/work/holland-green)
+22:54:55	Warning: 	Permanent Redirect for https://kota.co.uk/blog/agency-not-going-back-to-the-office/
+22:54:55	Warning: 	File has moved from https://kota.co.uk/blog/agency-not-going-back-to-the-office/ to /blog/agency-not-going-back-to-the-office
+22:54:55	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/working-from-home.webp (from https://kota.co.uk/blog/agency-not-going-back-to-the-office)
+22:54:57	Warning: 	Permanent Redirect for https://kota.co.uk/blog/seo-process-web-design/
+22:54:57	Warning: 	File has moved from https://kota.co.uk/blog/seo-process-web-design/ to /blog/seo-process-web-design
+22:54:57	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/seo-header.webp (from https://kota.co.uk/blog/seo-process-web-design)
+22:54:57	Warning: 	Permanent Redirect for https://kota.co.uk/work/the-halo-group/
+22:54:57	Warning: 	File has moved from https://kota.co.uk/work/the-halo-group/ to /work/the-halo-group
+22:54:57	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-1.jpg (from https://kota.co.uk/work/the-halo-group)
+22:54:57	Warning: 	Permanent Redirect for https://kota.co.uk/work/adams-butler/
+22:54:57	Warning: 	File has moved from https://kota.co.uk/work/adams-butler/ to /work/adams-butler
+22:54:57	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/ab-featured.jpg (from https://kota.co.uk/work/adams-butler)
+22:54:59	Warning: 	Permanent Redirect for https://kota.co.uk/blog/ga4-vs-universal-analytics-whats-the-difference/
+22:54:59	Warning: 	File has moved from https://kota.co.uk/blog/ga4-vs-universal-analytics-whats-the-difference/ to /blog/ga4-vs-universal-analytics-whats-the-difference
+22:54:59	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-image-1.jpg (from https://kota.co.uk/blog/ga4-vs-universal-analytics-whats-the-difference)
+22:55:04	Warning: 	Permanent Redirect for https://kota.co.uk/blog/core-web-vitals-common-myths/
+22:55:04	Warning: 	File has moved from https://kota.co.uk/blog/core-web-vitals-common-myths/ to /blog/core-web-vitals-common-myths
+22:55:04	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header-1.jpg (from https://kota.co.uk/blog/core-web-vitals-common-myths)
+22:55:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/ts-featured.jpg (from https://kota.co.uk/work/trace-solutions)
+22:55:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/aardvark-featured-2.jpg (from https://kota.co.uk/work/aardvark)
+22:55:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/shopify-winter-editions-2024-whats-new/
+22:55:22	Warning: 	File has moved from https://kota.co.uk/blog/shopify-winter-editions-2024-whats-new/ to /blog/shopify-winter-editions-2024-whats-new
+22:55:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/shopify.png (from https://kota.co.uk/blog/shopify-winter-editions-2024-whats-new)
+22:55:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/top-3-highlights-from-shopify-unite-2021/
+22:55:22	Warning: 	File has moved from https://kota.co.uk/blog/top-3-highlights-from-shopify-unite-2021/ to /blog/top-3-highlights-from-shopify-unite-2021
+22:55:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/shopify-blog-header-1.jpg (from https://kota.co.uk/blog/top-3-highlights-from-shopify-unite-2021)
+22:55:24	Warning: 	Permanent Redirect for https://kota.co.uk/blog/shopify-editions-summer-23-everything-you-need-to-know/
+22:55:24	Warning: 	File has moved from https://kota.co.uk/blog/shopify-editions-summer-23-everything-you-need-to-know/ to /blog/shopify-editions-summer-23-everything-you-need-to-know
+22:55:24	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/shopify-blog-header.jpg (from https://kota.co.uk/blog/shopify-editions-summer-23-everything-you-need-to-know)
+22:55:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/wordcamp-europe-my-seven-key-takeaways/
+22:55:27	Warning: 	File has moved from https://kota.co.uk/blog/wordcamp-europe-my-seven-key-takeaways/ to /blog/wordcamp-europe-my-seven-key-takeaways
+22:55:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Untitled-design-8.png (from https://kota.co.uk/blog/wordcamp-europe-my-seven-key-takeaways)
+22:55:27	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-homepage-redesign-can-improve-business-performance-amidst-covid-19-crisis/
+22:55:27	Warning: 	File has moved from https://kota.co.uk/blog/how-homepage-redesign-can-improve-business-performance-amidst-covid-19-crisis/ to /blog/how-homepage-redesign-can-improve-business-performance-amidst-covid-19-crisis
+22:55:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog_header.webp (from https://kota.co.uk/blog/how-homepage-redesign-can-improve-business-performance-amidst-covid-19-crisis)
+22:55:27	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/sym-featured.jpg (from https://kota.co.uk/work/super-yachts-monaco)
+22:55:29	Warning: 	Permanent Redirect for https://kota.co.uk/work/matchroom-boxing/
+22:55:29	Warning: 	File has moved from https://kota.co.uk/work/matchroom-boxing/ to /work/matchroom-boxing
+22:55:29	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/WhatsApp-Image-2024-01-15-at-15.53.03.jpeg (from https://kota.co.uk/work/matchroom-boxing)
+22:55:29	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/love-brands-featured-1.jpg (from https://kota.co.uk/work/love-brands)
+22:55:42	Warning: 	Permanent Redirect for https://kota.co.uk/blog/website-design-for-tech-saas-done-right/
+22:55:42	Warning: 	File has moved from https://kota.co.uk/blog/website-design-for-tech-saas-done-right/ to /blog/website-design-for-tech-saas-done-right
+22:55:42	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/perspective-1.jpg (from https://kota.co.uk/blog/website-design-for-tech-saas-done-right)
+22:55:42	Warning: 	Permanent Redirect for https://kota.co.uk/work/understanding-jewellery/
+22:55:42	Warning: 	File has moved from https://kota.co.uk/work/understanding-jewellery/ to /work/understanding-jewellery
+22:55:42	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/intro2.jpg (from https://kota.co.uk/work/understanding-jewellery)
+22:55:42	Warning: 	Permanent Redirect for https://kota.co.uk/work/jazz-cafe/
+22:55:42	Warning: 	File has moved from https://kota.co.uk/work/jazz-cafe/ to /work/jazz-cafe
+22:55:42	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/jc-featured.jpg (from https://kota.co.uk/work/jazz-cafe)
+22:55:42	Warning: 	Permanent Redirect for https://kota.co.uk/work/brinkworth/
+22:55:42	Warning: 	File has moved from https://kota.co.uk/work/brinkworth/ to /work/brinkworth
+22:55:43	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/bw-featured.jpg (from https://kota.co.uk/work/brinkworth)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/blog/business-planning-managing-team-interview-jonny/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/blog/business-planning-managing-team-interview-jonny/ to /blog/business-planning-managing-team-interview-jonny
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog_profile_jonny.webp (from https://kota.co.uk/blog/business-planning-managing-team-interview-jonny)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/work/british-red-cross/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/work/british-red-cross/ to /work/british-red-cross
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/brc-featured-scaled.jpg (from https://kota.co.uk/work/british-red-cross)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/work/contractpodai/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/work/contractpodai/ to /work/contractpodai
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/cp-featured.jpg (from https://kota.co.uk/work/contractpodai)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/blog/annoushka-star-charm-online-advertising/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/blog/annoushka-star-charm-online-advertising/ to /blog/annoushka-star-charm-online-advertising
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Header-2.webp (from https://kota.co.uk/blog/annoushka-star-charm-online-advertising)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/blog/our-guide-to-website-animation-the-good-and-the-bad/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/blog/our-guide-to-website-animation-the-good-and-the-bad/ to /blog/our-guide-to-website-animation-the-good-and-the-bad
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/animation-blog-header.jpg (from https://kota.co.uk/blog/our-guide-to-website-animation-the-good-and-the-bad)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/work/box-to-box/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/work/box-to-box/ to /work/box-to-box
+22:56:08	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/featured-10.jpg (from https://kota.co.uk/work/box-to-box)
+22:56:08	Warning: 	Permanent Redirect for https://kota.co.uk/blog/small-details-big-impact-a-guide-to-website-micro-animations/
+22:56:08	Warning: 	File has moved from https://kota.co.uk/blog/small-details-big-impact-a-guide-to-website-micro-animations/ to /blog/small-details-big-impact-a-guide-to-website-micro-animations
+22:56:19	Warning: 	Permanent Redirect for https://kota.co.uk/blog/10-stand-out-examples-of-tech-brand-websites/
+22:56:19	Warning: 	File has moved from https://kota.co.uk/blog/10-stand-out-examples-of-tech-brand-websites/ to /blog/10-stand-out-examples-of-tech-brand-websites
+22:56:19	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/tech-web-design-1.png (from https://kota.co.uk/blog/10-stand-out-examples-of-tech-brand-websites)
+22:56:19	Warning: 	Permanent Redirect for https://kota.co.uk/blog/beyond-linkedin-social-media-for-the-serious-b2b-marketer/
+22:56:19	Warning: 	File has moved from https://kota.co.uk/blog/beyond-linkedin-social-media-for-the-serious-b2b-marketer/ to /blog/beyond-linkedin-social-media-for-the-serious-b2b-marketer
+22:56:19	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/social-media-b2b-marketing.png (from https://kota.co.uk/blog/beyond-linkedin-social-media-for-the-serious-b2b-marketer)
+22:56:19	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-future-is-here-ai-in-digital-marketing/
+22:56:19	Warning: 	File has moved from https://kota.co.uk/blog/the-future-is-here-ai-in-digital-marketing/ to /blog/the-future-is-here-ai-in-digital-marketing
+22:56:19	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/artificial-intelligence.webp (from https://kota.co.uk/blog/the-future-is-here-ai-in-digital-marketing)
+22:56:19	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/jamie-5-featured.jpg (from https://kota.co.uk/work/jamie-oliver-5-ingredients)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-partner-with-ufc-to-deliver-brand-new-sport-power-slap/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/kota-partner-with-ufc-to-deliver-brand-new-sport-power-slap/ to /blog/kota-partner-with-ufc-to-deliver-brand-new-sport-power-slap
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/power-slap-blog-header-1.jpg (from https://kota.co.uk/blog/kota-partner-with-ufc-to-deliver-brand-new-sport-power-slap)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/edge10-group-partner-with-london-agency-kota-to-drive-forward-brand-and-digital-strategy/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/edge10-group-partner-with-london-agency-kota-to-drive-forward-brand-and-digital-strategy/ to /blog/edge10-group-partner-with-london-agency-kota-to-drive-forward-brand-and-digital-strategy
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/nfl.webp (from https://kota.co.uk/blog/edge10-group-partner-with-london-agency-kota-to-drive-forward-brand-and-digital-strategy)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/behind-the-scenes-of-the-kota-website-redesign/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/behind-the-scenes-of-the-kota-website-redesign/ to /blog/behind-the-scenes-of-the-kota-website-redesign
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/kota-site-featured.jpg (from https://kota.co.uk/blog/behind-the-scenes-of-the-kota-website-redesign)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/writing-a-website-brief-7-big-questions-you-should-ask-yourself/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/writing-a-website-brief-7-big-questions-you-should-ask-yourself/ to /blog/writing-a-website-brief-7-big-questions-you-should-ask-yourself
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/briefing.webp (from https://kota.co.uk/blog/writing-a-website-brief-7-big-questions-you-should-ask-yourself)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-master-the-linkedin-algorithm-in-2024/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/how-to-master-the-linkedin-algorithm-in-2024/ to /blog/how-to-master-the-linkedin-algorithm-in-2024
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/linkedin-algorithm-2024.png (from https://kota.co.uk/blog/how-to-master-the-linkedin-algorithm-in-2024)
+22:56:22	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-migrate-to-ga4-5-easy-steps/
+22:56:22	Warning: 	File has moved from https://kota.co.uk/blog/how-to-migrate-to-ga4-5-easy-steps/ to /blog/how-to-migrate-to-ga4-5-easy-steps
+22:56:22	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/illustration-01.jpg (from https://kota.co.uk/blog/how-to-migrate-to-ga4-5-easy-steps)
+22:56:32	Warning: 	Permanent Redirect for https://kota.co.uk/blog/2019-a-year-in-the-kota-studio/
+22:56:32	Warning: 	File has moved from https://kota.co.uk/blog/2019-a-year-in-the-kota-studio/ to /blog/2019-a-year-in-the-kota-studio
+22:56:32	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/bottom-right-1.webp (from https://kota.co.uk/blog/2019-a-year-in-the-kota-studio)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/blog/2020-at-kota-studio/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/blog/2020-at-kota-studio/ to /blog/2020-at-kota-studio
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/2020-blog-header.webp (from https://kota.co.uk/blog/2020-at-kota-studio)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/work/anacap/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/work/anacap/ to /work/anacap
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/anacap-featured.jpg (from https://kota.co.uk/work/anacap)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/blog/web-design-trends-2023/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/blog/web-design-trends-2023/ to /blog/web-design-trends-2023
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Header_b.jpg (from https://kota.co.uk/blog/web-design-trends-2023)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/work/antheon/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/work/antheon/ to /work/antheon
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/Featured.png (from https://kota.co.uk/work/antheon)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/blog/tech-against-the-grain-tech-brands-redefining-the-industry/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/blog/tech-against-the-grain-tech-brands-redefining-the-industry/ to /blog/tech-against-the-grain-tech-brands-redefining-the-industry
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/06/tech-brand-strategies.png (from https://kota.co.uk/blog/tech-against-the-grain-tech-brands-redefining-the-industry)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-inject-fresh-energy-into-established-b2b-brands/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/blog/how-to-inject-fresh-energy-into-established-b2b-brands/ to /blog/how-to-inject-fresh-energy-into-established-b2b-brands
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/05/rebrand.png (from https://kota.co.uk/blog/how-to-inject-fresh-energy-into-established-b2b-brands)
+22:57:12	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/jumo-featured.jpg (from https://kota.co.uk/work/jumo-health)
+22:57:12	Warning: 	Permanent Redirect for https://kota.co.uk/blog/5-ways-ai-can-improve-web-design/
+22:57:12	Warning: 	File has moved from https://kota.co.uk/blog/5-ways-ai-can-improve-web-design/ to /blog/5-ways-ai-can-improve-web-design
+22:57:13	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/shaking-hands.png (from https://kota.co.uk/blog/5-ways-ai-can-improve-web-design)
+22:57:13	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/ha-featured.jpg (from https://kota.co.uk/work/hassan-allam)
+22:57:23	Warning: 	Permanent Redirect for https://kota.co.uk/blog/covid-19-update-from-jonny-kotas-managing-director/
+22:57:23	Warning: 	File has moved from https://kota.co.uk/blog/covid-19-update-from-jonny-kotas-managing-director/ to /blog/covid-19-update-from-jonny-kotas-managing-director
+22:57:23	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/kota.webp (from https://kota.co.uk/blog/covid-19-update-from-jonny-kotas-managing-director)
+22:57:42	Warning: 	Permanent Redirect for https://kota.co.uk/blog/our-remote-team-meet-up-a-fun-day-out-in-london/
+22:57:42	Warning: 	File has moved from https://kota.co.uk/blog/our-remote-team-meet-up-a-fun-day-out-in-london/ to /blog/our-remote-team-meet-up-a-fun-day-out-in-london
+22:57:42	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/hijingo2.jpg (from https://kota.co.uk/blog/our-remote-team-meet-up-a-fun-day-out-in-london)
+22:57:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-we-keep-our-remote-team-happy/
+22:57:46	Warning: 	File has moved from https://kota.co.uk/blog/how-we-keep-our-remote-team-happy/ to /blog/how-we-keep-our-remote-team-happy
+22:57:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/article-header2.jpg (from https://kota.co.uk/blog/how-we-keep-our-remote-team-happy)
+22:57:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/a-guide-to-nailing-title-tags-and-meta-descriptions/
+22:57:46	Warning: 	File has moved from https://kota.co.uk/blog/a-guide-to-nailing-title-tags-and-meta-descriptions/ to /blog/a-guide-to-nailing-title-tags-and-meta-descriptions
+22:57:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/title-tags-and-meta-descriptions.png (from https://kota.co.uk/blog/a-guide-to-nailing-title-tags-and-meta-descriptions)
+22:57:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/ga4-for-dummies/
+22:57:46	Warning: 	File has moved from https://kota.co.uk/blog/ga4-for-dummies/ to /blog/ga4-for-dummies
+22:57:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/people-with-light-bulb-work-together-have-brainstorm-share-creative-ideas-concept-teamwork-search-su.jpeg (from https://kota.co.uk/blog/ga4-for-dummies)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/october-2021-organic-search-update/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/october-2021-organic-search-update/ to /blog/october-2021-organic-search-update
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/illustration-01-1.jpg (from https://kota.co.uk/blog/october-2021-organic-search-update)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/work/arcturis/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/work/arcturis/ to /work/arcturis
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/arc-featured.jpg (from https://kota.co.uk/work/arcturis)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/shopifys-e-commerce-boom-here-to-stay/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/shopifys-e-commerce-boom-here-to-stay/ to /blog/shopifys-e-commerce-boom-here-to-stay
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/shopify-blog-header-2.jpg (from https://kota.co.uk/blog/shopifys-e-commerce-boom-here-to-stay)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-to-prepare-your-website-for-black-friday-2023/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/how-to-prepare-your-website-for-black-friday-2023/ to /blog/how-to-prepare-your-website-for-black-friday-2023
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-image.jpg (from https://kota.co.uk/blog/how-to-prepare-your-website-for-black-friday-2023)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-essential-role-content-plays-in-web-design/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/the-essential-role-content-plays-in-web-design/ to /blog/the-essential-role-content-plays-in-web-design
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Content-vs-Design-01.jpg (from https://kota.co.uk/blog/the-essential-role-content-plays-in-web-design)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-worlds-leading-boxing-promoter-matchroom-boxing-partners-with-kota/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/the-worlds-leading-boxing-promoter-matchroom-boxing-partners-with-kota/ to /blog/the-worlds-leading-boxing-promoter-matchroom-boxing-partners-with-kota
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Screen-Shot-2020-07-29-at-08.46.06.webp (from https://kota.co.uk/blog/the-worlds-leading-boxing-promoter-matchroom-boxing-partners-with-kota)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/work/sonovate/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/work/sonovate/ to /work/sonovate
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/so-featured-1.jpg (from https://kota.co.uk/work/sonovate)
+22:58:00	Warning: 	Permanent Redirect for https://kota.co.uk/blog/on-starting-a-creative-agency-with-james-our-creative-director/
+22:58:00	Warning: 	File has moved from https://kota.co.uk/blog/on-starting-a-creative-agency-with-james-our-creative-director/ to /blog/on-starting-a-creative-agency-with-james-our-creative-director
+22:58:00	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/james.webp (from https://kota.co.uk/blog/on-starting-a-creative-agency-with-james-our-creative-director)
+22:58:06	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-ed-shropshire/
+22:58:06	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-ed-shropshire/ to /blog/who-on-earth-is-ed-shropshire
+22:58:06	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Ed-blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-ed-shropshire)
+22:58:11	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-em-mackenzie/
+22:58:11	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-em-mackenzie/ to /blog/who-on-earth-is-em-mackenzie
+22:58:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/em-header.jpg (from https://kota.co.uk/blog/who-on-earth-is-em-mackenzie)
+22:58:11	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-ffion-hughes/
+22:58:11	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-ffion-hughes/ to /blog/who-on-earth-is-ffion-hughes
+22:58:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Ffion_Blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-ffion-hughes)
+22:58:11	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-maja-fulconis/
+22:58:11	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-maja-fulconis/ to /blog/who-on-earth-is-maja-fulconis
+22:58:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/maja-profile.webp (from https://kota.co.uk/blog/who-on-earth-is-maja-fulconis)
+22:58:11	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-margo-mitrovic/
+22:58:11	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-margo-mitrovic/ to /blog/who-on-earth-is-margo-mitrovic
+22:58:11	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Margo_Blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-margo-mitrovic)
+22:58:13	Warning: 	Permanent Redirect for https://kota.co.uk/blog/rebellious-typography-the-importance-of-the-humble-font/
+22:58:13	Warning: 	File has moved from https://kota.co.uk/blog/rebellious-typography-the-importance-of-the-humble-font/ to /blog/rebellious-typography-the-importance-of-the-humble-font
+22:58:24	Warning: 	Permanent Redirect for https://kota.co.uk/blog/creative-web-design-trends-for-tech-startups/
+22:58:24	Warning: 	File has moved from https://kota.co.uk/blog/creative-web-design-trends-for-tech-startups/ to /blog/creative-web-design-trends-for-tech-startups
+22:58:24	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/tech-design-trends-2.png (from https://kota.co.uk/blog/creative-web-design-trends-for-tech-startups)
+22:58:24	Warning: 	Permanent Redirect for https://kota.co.uk/blog/announcing-new-partnerships/
+22:58:24	Warning: 	File has moved from https://kota.co.uk/blog/announcing-new-partnerships/ to /blog/announcing-new-partnerships
+22:58:24	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/New-Client-Header.jpg (from https://kota.co.uk/blog/announcing-new-partnerships)
+22:58:25	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-christmas-at-stranger-things-secret-cinema/
+22:58:25	Warning: 	File has moved from https://kota.co.uk/blog/kota-christmas-at-stranger-things-secret-cinema/ to /blog/kota-christmas-at-stranger-things-secret-cinema
+22:58:25	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-1-2.webp (from https://kota.co.uk/blog/kota-christmas-at-stranger-things-secret-cinema)
+22:58:41	Warning: 	Permanent Redirect for https://kota.co.uk/blog/2023-so-far-at-kota/
+22:58:41	Warning: 	File has moved from https://kota.co.uk/blog/2023-so-far-at-kota/ to /blog/2023-so-far-at-kota
+22:58:41	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Blog-Header.jpg (from https://kota.co.uk/blog/2023-so-far-at-kota)
+22:58:41	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-welcome-senior-digital-designer-james-huse/
+22:58:41	Warning: 	File has moved from https://kota.co.uk/blog/kota-welcome-senior-digital-designer-james-huse/ to /blog/kota-welcome-senior-digital-designer-james-huse
+22:58:41	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/drew-beamer-3SIXZisims4-unsplash.webp (from https://kota.co.uk/blog/kota-welcome-senior-digital-designer-james-huse)
+22:58:47	Warning: 	Permanent Redirect for https://kota.co.uk/work/goodman-masson/
+22:58:47	Warning: 	File has moved from https://kota.co.uk/work/goodman-masson/ to /work/goodman-masson
+22:58:47	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/gm-featured.jpg (from https://kota.co.uk/work/goodman-masson)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/work/luxmill/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/work/luxmill/ to /work/luxmill
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/luxmill-featured.jpg (from https://kota.co.uk/work/luxmill)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/how-we-built-our-new-website/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/how-we-built-our-new-website/ to /blog/how-we-built-our-new-website
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header.webp (from https://kota.co.uk/blog/how-we-built-our-new-website)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/best-of-2021-our-projects-and-awards/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/best-of-2021-our-projects-and-awards/ to /blog/best-of-2021-our-projects-and-awards
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/best-of-2021_.jpg (from https://kota.co.uk/blog/best-of-2021-our-projects-and-awards)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/superyachtsmonaco-partner-with-kota-to-land-digital-transformation/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/superyachtsmonaco-partner-with-kota-to-land-digital-transformation/ to /blog/superyachtsmonaco-partner-with-kota-to-land-digital-transformation
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Screen-Shot-2020-06-11-at-16.24.56.webp (from https://kota.co.uk/blog/superyachtsmonaco-partner-with-kota-to-land-digital-transformation)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/the-best-tools-for-working-from-home/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/the-best-tools-for-working-from-home/ to /blog/the-best-tools-for-working-from-home
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/work-from-home.webp (from https://kota.co.uk/blog/the-best-tools-for-working-from-home)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/project-management-with-notion/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/project-management-with-notion/ to /blog/project-management-with-notion
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/notion-x-kota-1.jpg (from https://kota.co.uk/blog/project-management-with-notion)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/kota-team-trip-to-porto/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/kota-team-trip-to-porto/ to /blog/kota-team-trip-to-porto
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/IMG_0464.jpeg (from https://kota.co.uk/blog/kota-team-trip-to-porto)
+22:59:34	Warning: 	Permanent Redirect for https://kota.co.uk/blog/successful-start-of-the-year-at-kota/
+22:59:34	Warning: 	File has moved from https://kota.co.uk/blog/successful-start-of-the-year-at-kota/ to /blog/successful-start-of-the-year-at-kota
+22:59:34	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/clutch2021.webp (from https://kota.co.uk/blog/successful-start-of-the-year-at-kota)
+22:59:43	Warning: 	Permanent Redirect for https://kota.co.uk/blog/september-2021-organic-search-update/
+22:59:43	Warning: 	File has moved from https://kota.co.uk/blog/september-2021-organic-search-update/ to /blog/september-2021-organic-search-update
+22:59:43	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/illustration-03.jpg (from https://kota.co.uk/blog/september-2021-organic-search-update)
+22:59:43	Warning: 	Permanent Redirect for https://kota.co.uk/blog/july-2021-organic-search-update/
+22:59:43	Warning: 	File has moved from https://kota.co.uk/blog/july-2021-organic-search-update/ to /blog/july-2021-organic-search-update
+22:59:43	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header-seo-1.jpg (from https://kota.co.uk/blog/july-2021-organic-search-update)
+22:59:43	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-alexander-vasilakis/
+22:59:43	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-alexander-vasilakis/ to /blog/who-on-earth-is-alexander-vasilakis
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Alex-Blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-alexander-vasilakis)
+22:59:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-nicola-cook/
+22:59:44	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-nicola-cook/ to /blog/who-on-earth-is-nicola-cook
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Nicola_Blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-nicola-cook)
+22:59:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-rebecca-da-silva/
+22:59:44	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-rebecca-da-silva/ to /blog/who-on-earth-is-rebecca-da-silva
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/Rebecca-team-bio-blog.jpg (from https://kota.co.uk/blog/who-on-earth-is-rebecca-da-silva)
+22:59:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-bekah-mcdonald/
+22:59:44	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-bekah-mcdonald/ to /blog/who-on-earth-is-bekah-mcdonald
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/bekah-blog-min.jpg (from https://kota.co.uk/blog/who-on-earth-is-bekah-mcdonald)
+22:59:44	Warning: 	Permanent Redirect for https://kota.co.uk/blog/who-on-earth-is-james-huse/
+22:59:44	Warning: 	File has moved from https://kota.co.uk/blog/who-on-earth-is-james-huse/ to /blog/who-on-earth-is-james-huse
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/james-h.jpg (from https://kota.co.uk/blog/who-on-earth-is-james-huse)
+22:59:44	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/brand-manifesto-3.png (from https://kota.co.uk/blog/small-details-big-impact-a-guide-to-website-micro-animations)
+22:59:46	Warning: 	Permanent Redirect for https://kota.co.uk/work/tribepad/
+22:59:46	Warning: 	File has moved from https://kota.co.uk/work/tribepad/ to /work/tribepad
+22:59:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/tribepad-featured.jpg (from https://kota.co.uk/work/tribepad)
+22:59:46	Warning: 	Permanent Redirect for https://kota.co.uk/work/ymu-group/
+22:59:46	Warning: 	File has moved from https://kota.co.uk/work/ymu-group/ to /work/ymu-group
+22:59:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/ymu-featured.jpg (from https://kota.co.uk/work/ymu-group)
+22:59:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/exciting-new-projects-at-kota/
+22:59:46	Warning: 	File has moved from https://kota.co.uk/blog/exciting-new-projects-at-kota/ to /blog/exciting-new-projects-at-kota
+22:59:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/shaking-hands-1.png (from https://kota.co.uk/blog/exciting-new-projects-at-kota)
+22:59:46	Warning: 	Permanent Redirect for https://kota.co.uk/blog/our-b2b-marketing-strategy-2020-website-redesign-results/
+22:59:46	Warning: 	File has moved from https://kota.co.uk/blog/our-b2b-marketing-strategy-2020-website-redesign-results/ to /blog/our-b2b-marketing-strategy-2020-website-redesign-results
+22:59:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/header-updated.jpg (from https://kota.co.uk/blog/our-b2b-marketing-strategy-2020-website-redesign-results)
+22:59:46	Warning: 	Permanent Redirect for https://kota.co.uk/work/zebra/
+22:59:46	Warning: 	File has moved from https://kota.co.uk/work/zebra/ to /work/zebra
+22:59:46	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/03/zbr-featured.jpg (from https://kota.co.uk/work/zebra)
+22:59:59	Warning: 	Permanent Redirect for https://kota.co.uk/blog/august-2021-organic-search-update/
+22:59:59	Warning: 	File has moved from https://kota.co.uk/blog/august-2021-organic-search-update/ to /blog/august-2021-organic-search-update
+22:59:59	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/kH-ycDuw.jpeg (from https://kota.co.uk/blog/august-2021-organic-search-update)
+22:59:59	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/04/typography-2.png (from https://kota.co.uk/blog/rebellious-typography-the-importance-of-the-humble-font)
+22:59:59	Warning: 	Permanent Redirect for https://kota.co.uk/blog/july-2021-organic-search-update-2/
+22:59:59	Warning: 	File has moved from https://kota.co.uk/blog/july-2021-organic-search-update-2/ to /blog/july-2021-organic-search-update-2
+22:59:59	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header-seo-1-1.jpg (from https://kota.co.uk/blog/july-2021-organic-search-update-2)
+23:00:03	Warning: 	Permanent Redirect for https://kota.co.uk/blog/march-2021-organic-search-update/
+23:00:03	Warning: 	File has moved from https://kota.co.uk/blog/march-2021-organic-search-update/ to /blog/march-2021-organic-search-update
+23:00:03	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/blog-header-seo-1-1-1.jpg (from https://kota.co.uk/blog/march-2021-organic-search-update)
+23:00:06	Warning: 	Permanent Redirect for https://kota.co.uk/blog/april-2021-organic-search-update/
+23:00:06	Warning: 	File has moved from https://kota.co.uk/blog/april-2021-organic-search-update/ to /blog/april-2021-organic-search-update
+23:00:06	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/illustration-03-1.jpg (from https://kota.co.uk/blog/april-2021-organic-search-update)
+23:00:06	Warning: 	Permanent Redirect for https://kota.co.uk/blog/may-2021-organic-search-update/
+23:00:06	Warning: 	File has moved from https://kota.co.uk/blog/may-2021-organic-search-update/ to /blog/may-2021-organic-search-update
+23:00:06	Error: 	"Not Found" (404) at link https://kota.co.uk/app/uploads/2024/02/illustration-02.jpg (from https://kota.co.uk/blog/may-2021-organic-search-update)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 23 seconds : 1794 links scanned, 1416 files written (388358014 bytes overall) [372734721 bytes received at 204462 bytes/sec], 28102386 bytes transferred using HTTP compression in 438 files, ratio 19%, 7.6 requests per connection
+(180 errors, 394 warnings, 0 messages)
